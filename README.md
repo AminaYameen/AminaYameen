@@ -3,7 +3,7 @@
 
 
 <div>
-                  Wordpress Developer || React.js ||Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
+                  <center>Wordpress Developer || React.js ||Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer</center>
 </div>
 <br>
 
