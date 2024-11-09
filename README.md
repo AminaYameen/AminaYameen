@@ -2,8 +2,8 @@
 
 
 
-
- Wordpress Developer || Wix Designer  || Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
+<div>
+ Wordpress Developer || React.js ||Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
 </div>
 
 
