@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 This is Amina, </h1>
+<h1 align="center">Hi,👋 This is Amna, </h1>
 
 
 
