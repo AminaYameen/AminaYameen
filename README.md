@@ -3,7 +3,7 @@
 
 
 
-Graduate Aspirant || Wordpress Developer || Wix Designer || Microsoft Ofice || Front-End developer || Python || AI Enthusiast || Computer Science || Hackathon Active Contributer
+ Wordpress Developer || Wix Designer  || Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
 </div>
 
 
