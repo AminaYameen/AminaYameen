@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Amina, </h1>
-<hr>
+
 
 
 
@@ -22,7 +22,7 @@
 
 . 📝 I regularly write articles on https://www.linkedin.com/in/amna-arooj-8bbba2250/
 
-💬 Ask me about WordPress,PHP, React
+💬 Ask me about WordPress, PHP, React
 
 📫 How to reach me aminaarooj1999@gmail.com
 
