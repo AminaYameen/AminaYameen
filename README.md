@@ -3,9 +3,9 @@
 
 
 <div>
- Wordpress Developer || React.js ||Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
+                  Wordpress Developer || React.js ||Front-End developer || Python || AI Enthusiast  || Hackathon Active Contributer
 </div>
-
+<br>
 
 
 
