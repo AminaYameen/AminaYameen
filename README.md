@@ -31,9 +31,9 @@
 
 ```text
   ┌─────────────────────────────────────────────────────────────────────────────┐
-  │  🔭 Currently Focused : Generative AI, Machine Learning, & Smart Analytics │
-  │  💻 Frontend Stack    : React.js, JavaScript (ES6+), HTML5/CSS3            │
-  │  ⚙️ Backend & CMS     : Python, Node.js, PHP, WordPress                    │
-  │  📝 Tech Articles     : Writing insightful technical blogs on LinkedIn     │
-  │  🏆 Community Activity: Active Contributor in Hackathons & Open Source      │
+  │  🔭 Currently Focused  : Generative AI, Machine Learning, & Smart Analytics │
+  │  💻 Frontend Stack     : React.js, JavaScript (ES6+), TypeScript, HTML/CSS  │
+  │  ⚙️ Backend & DB       : Python, Node.js, PHP, C++, Java, SQL, MongoDB      │
+  │  📝 Tech Articles      : Writing insightful technical blogs on LinkedIn     │
+  │  🏆 Community Activity : Active Contributor in Hackathons & Open Source      │
   └─────────────────────────────────────────────────────────────────────────────┘
