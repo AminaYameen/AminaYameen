@@ -46,8 +46,8 @@
       </ul>
     </td>
     <td width="40%" align="center" style="background-color: #121826; border: 2px solid #00F2FE; border-radius: 12px; padding: 10px; vertical-align: middle;">
-      <!-- RANDOM CODING ILLUSTRATION GIF -->
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLA3v0U/giphy.gif" width="100%" style="border-radius: 8px;" alt="Coding GIF" />
+      <!-- RELIABLE CODING GIF -->
+      <img src="https://raw.githubusercontent.com/gist/assets/f464010373fe4203a98d3d97f4fa1160/coding-cat.gif" width="100%" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -80,19 +80,15 @@
 
 <br />
 
-<!-- LEETCODE & CODING STATS PICTURE CARDS -->
+<!-- LEETCODE PROFILE SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=🧩%20LEETCODE%20%26%20PROBLEM%20SOLVING%20🧩&fontSize=22&fontColor=00F2FE" width="100%" />
 </div>
 
 <div align="center">
-  <p align="center">
-    <!-- LEETCODE STATS CARD -->
-    <img height="180" src="https://leetcode-stats-badge.herokuapp.com/?username=amnaarooj&theme=dark" alt="LeetCode Stats" />
-    &nbsp;&nbsp;
-    <!-- LEETCODE PROFILE CARD -->
-    <img height="180" src="https://leetcode-card.vercel.app/api?username=amnaarooj&theme=dark" alt="LeetCode Card" />
-  </p>
+  <a href="https://leetcode.com/amnaarooj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile_Link-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="42" />
+  </a>
 </div>
 
 <br />
@@ -116,32 +112,20 @@
 
 <br />
 
-<!-- GITHUB STATS SECTION WITH CODING IMAGES -->
+<!-- GITHUB STATS SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=📊%20DEVELOPER%20METRICS%20%26%20STATS%20📊&fontSize=22&fontColor=00F2FE" width="100%" />
 </div>
 
 <div align="center">
   <br />
-  <!-- STATS IMAGE 1 & 2 -->
+  <!-- STABLE MAIN GITHUB STATS CARDS -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=amnaarooj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   &nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaarooj&layout=compact&theme=tokyonight&hide_border=false&hide=html" />
   <br /><br />
-  <!-- STREAK STATS IMAGE 3 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnaarooj&theme=tokyonight&hide_border=false" />
-  <br /><br />
-  <!-- CODING ACTIVITY IMAGE GRAPH -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnaarooj&theme=tokyo-night&area=true&hide_border=false" width="95%" />
-</div>
-
-<br />
-
-<!-- RANDOM CODING HUMOR / QUOTE CARDS -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=💡%20DEVELOPER%20VIBES%20💡&fontSize=22&fontColor=00F2FE" width="100%" />
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <!-- STABLE SNAKE CONTRIBUTION GRAPH ANIMATION -->
+  <img src="https://raw.githubusercontent.com/amnaarooj/amnaarooj/output/github-contribution-grid-snake.svg" alt="Snake Graph" width="100%" />
 </div>
 
 <br />
