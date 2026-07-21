@@ -31,7 +31,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td style="background-color: #121826; border: 2px solid #00F2FE; border-radius: 12px; padding: 25px;">
+    <td width="60%" style="background-color: #121826; border: 2px solid #00F2FE; border-radius: 12px; padding: 20px; vertical-align: middle;">
       <h3 align="center" style="color: #00F2FE;">👩‍💻 Computer Science Graduate & AI Enthusiast</h3>
       <p style="color: #E2E8F0; font-size: 15px; line-height: 1.6;">
         👋 Hello! I'm <b>Amna Arooj</b>, a passionate software developer focused on bridging web engineering with intelligent <b>Generative AI & Machine Learning</b> solutions.
@@ -40,10 +40,14 @@
       <ul style="color: #CBD5E1; line-height: 1.8;">
         <li><b>🔭 Current Focus:</b> Exploring Generative AI models, LLM applications, and smart analytics.</li>
         <li><b>💻 Web Expertise:</b> Crafting responsive interfaces with <b>React.js</b>, <b>JavaScript</b>, <b>PHP</b>, and <b>WordPress</b>.</li>
-        <li><b>⚙️ Core Engineering:</b> Programming in <b>Python</b>, <b>C++</b>, <b>Java</b>, <b>Node.js</b>, and <b>SQL/MongoDB</b> databases.</li>
-        <li><b>📝 Tech Writing:</b> Regularly publishing tech articles and web development tutorials on <a href="https://linkedin.com/in/amna-arooj-8bbba2250" style="color: #00F2FE;">LinkedIn</a>.</li>
+        <li><b>⚙️ Core Engineering:</b> Programming in <b>Python</b>, <b>C++</b>, <b>Java</b>, <b>Node.js</b>, and <b>SQL/MongoDB</b>.</li>
+        <li><b>📝 Tech Writing:</b> Regularly publishing tech articles on <a href="https://linkedin.com/in/amna-arooj-8bbba2250" style="color: #00F2FE;">LinkedIn</a>.</li>
         <li><b>🏆 Hackathons:</b> Active contributor and team player in competitive coding events.</li>
       </ul>
+    </td>
+    <td width="40%" align="center" style="background-color: #121826; border: 2px solid #00F2FE; border-radius: 12px; padding: 10px; vertical-align: middle;">
+      <!-- RANDOM CODING ILLUSTRATION GIF -->
+      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLA3v0U/giphy.gif" width="100%" style="border-radius: 8px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -76,15 +80,19 @@
 
 <br />
 
-<!-- LEETCODE & CODING STATS -->
+<!-- LEETCODE & CODING STATS PICTURE CARDS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=🧩%20LEETCODE%20%26%20PROBLEM%20SOLVING%20🧩&fontSize=22&fontColor=00F2FE" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://leetcode-stats-badge.herokuapp.com/?username=amnaarooj&theme=dark" alt="LeetCode Stats" />
-  </a>
+  <p align="center">
+    <!-- LEETCODE STATS CARD -->
+    <img height="180" src="https://leetcode-stats-badge.herokuapp.com/?username=amnaarooj&theme=dark" alt="LeetCode Stats" />
+    &nbsp;&nbsp;
+    <!-- LEETCODE PROFILE CARD -->
+    <img height="180" src="https://leetcode-card.vercel.app/api?username=amnaarooj&theme=dark" alt="LeetCode Card" />
+  </p>
 </div>
 
 <br />
@@ -108,18 +116,32 @@
 
 <br />
 
-<!-- GITHUB STATS SECTION -->
+<!-- GITHUB STATS SECTION WITH CODING IMAGES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=📊%20DEVELOPER%20METRICS%20📊&fontSize=22&fontColor=00F2FE" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=📊%20DEVELOPER%20METRICS%20%26%20STATS%20📊&fontSize=22&fontColor=00F2FE" width="100%" />
 </div>
 
 <div align="center">
   <br />
+  <!-- STATS IMAGE 1 & 2 -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=amnaarooj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" />
   &nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaarooj&layout=compact&theme=tokyonight&hide_border=false&hide=html" />
   <br /><br />
+  <!-- STREAK STATS IMAGE 3 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnaarooj&theme=tokyonight&hide_border=false" />
+  <br /><br />
+  <!-- CODING ACTIVITY IMAGE GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnaarooj&theme=tokyo-night&area=true&hide_border=false" width="95%" />
+</div>
+
+<br />
+
+<!-- RANDOM CODING HUMOR / QUOTE CARDS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F293D&height=100&section=header&text=💡%20DEVELOPER%20VIBES%20💡&fontSize=22&fontColor=00F2FE" width="100%" />
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <br />
